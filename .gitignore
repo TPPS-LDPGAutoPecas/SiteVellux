@@ -10,7 +10,7 @@ yarn-error.log*
 .env
 .env.local
 
-# Banco de dados do Docker (Crucial para não subir o banco pro GitHub)
+# Banco de dados do Docker
 pgdata/
 
 # Builds do Frontend
